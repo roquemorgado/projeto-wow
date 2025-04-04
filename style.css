@@ -117,7 +117,7 @@ main a:hover {text-decoration: underline;
 
 main p a:hover ::before{content: '\1F517';}
 
-#elf { background-image: url(https://static.wikia.nocookie.net/wowpedia/images/9/93/Quel%27Thalas.jpg/revision/latest/scale-to-width-down/1000?cb=20200710205935);
+#elf { background-image: url(img/backgroundred.png);
         background-position: center bottom;
         background-attachment: fixed;
         background-repeat: no-repeat;
