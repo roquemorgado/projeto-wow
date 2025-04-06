@@ -17,7 +17,7 @@
 
 p.meio{text-align: center;}
 
-body { background-image: url(img/background1.jfif);
+body { background-image: url(../img/background1.jfif);
         background-attachment: fixed;  
         
 }
@@ -124,7 +124,7 @@ main a:hover {text-decoration: underline;
 
 main p a:hover ::before{content: '\1F517';}
 
-#elf { background-image: url(img/backgroundred.png);
+#elf { background-image: url(../img/backgroundred.png);
         background-position: center bottom;
         background-attachment: fixed;
         background-repeat: no-repeat;
